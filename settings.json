@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#a54d4d94"
+    },
+    "breadcrumbs.enabled": true,
+    "files.insertFinalNewline": true,
+    "files.autoGuessEncoding": true,
+    "editor.renderWhitespace": "all",
+    "editor.formatOnType": true,
+    "editor.fontFamily": "'Source Han Code JP Light', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 21,
+}
